@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://magneto:magnet0@ds059821.mlab.com:59821/heroku_zt8vscc4
